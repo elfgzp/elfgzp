@@ -3,10 +3,12 @@
 - 🔭 I’m currently working on [Klook](http://www.klook.com/)
 - 🌱 I’m currently learning [☸️ Kubernetes](https://kubernetes.io/), [🐭 Golang](https://golang.org/)
 - 📫 How to reach me: [me@elfgzp.cn](me@elfgzp.cn)
-- 😄 Life is short, I use python
+- 😄 Life is short, I use python. 
 
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=elfgzp&show_icons=true&hide_border=false)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elfgzp&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elfgzp&layout=compact&theme=radical" />
+
 
 
 ### My blog
