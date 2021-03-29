@@ -32,3 +32,6 @@ INI             🕓 5m     ░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
+### Visitors Count
+![VisitorCount](https://profile-counter.glitch.me/{elfgzp}/count.svg)
+
