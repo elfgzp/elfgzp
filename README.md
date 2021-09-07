@@ -22,7 +22,11 @@ More on [elfgzp.cn](https://elfgzp.cn)
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/42a17b201403d3a60581e2a7eca14ad2" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Go              🕓 9h57m ████████████▉░░░░░░░░░░ 56.4%
+Protocol Buffer 🕓 5h40m ███████▍░░░░░░░░░░░░░░░ 32.1%
+Git Config      🕓 44m   ▉░░░░░░░░░░░░░░░░░░░░░░  4.2%
+Markdown        🕓 28m   ▌░░░░░░░░░░░░░░░░░░░░░░  2.7%
+Makefile        🕓 21m   ▍░░░░░░░░░░░░░░░░░░░░░░  2.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
