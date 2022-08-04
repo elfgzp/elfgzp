@@ -22,11 +22,7 @@ More on [elfgzp.cn](https://elfgzp.cn)
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/42a17b201403d3a60581e2a7eca14ad2" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go                 🕓 23h36m █████████████░░░░░░ 68.8%
-YAML               🕓 2h41m  █▍░░░░░░░░░░░░░░░░░  7.9%
-Bash               🕓 1h29m  ▊░░░░░░░░░░░░░░░░░░  4.3%
-Shell Script       🕓 1h17m  ▋░░░░░░░░░░░░░░░░░░  3.7%
-Text               🕓 1h10m  ▋░░░░░░░░░░░░░░░░░░  3.4%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
